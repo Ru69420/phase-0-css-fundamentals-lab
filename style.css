@@ -1,5 +1,22 @@
+
+
+
+
+
+
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+featuredproperty {
+ width: 900px;
+ height: 800px;
+
+}
+detail {
+float: right;
+width: 450px;
+height: 400px;
 }
