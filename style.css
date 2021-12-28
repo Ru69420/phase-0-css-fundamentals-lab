@@ -1,22 +1,25 @@
 
+.center{
+
+
+  
+}
 
 
 
 
-
-
-body {
+.body {
   width: 100%;
   height: 100%;
   margin: 0;
 }
-featuredproperty {
+.featuredproperty {
  width: 900px;
  height: 800px;
 
 }
-detail {
-float: right;
+.detail {
+float: left;
 width: 450px;
 height: 400px;
 }
